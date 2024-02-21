@@ -19,7 +19,7 @@
       <!-- gmail -->
       <a href = "mailto:ashwanisingh6187@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
       <!-- linkedin -->
-      <a href="https://www.linkedin.com/in/ashwani-singh-aa35962a8?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank"></a> 
+      <a href="" target="_blank"></a> 
     </div>
 
 <hr>
